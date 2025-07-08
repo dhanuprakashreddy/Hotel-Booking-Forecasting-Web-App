@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Forecasting Web App
 
-A professional, web-based forecasting system that predicts hotel room bookings for the next 7 days using historical data and Prophet (by Facebook).
+A professional, web-based forecasting system that predicts hotel room bookings for the next 7 days using historical data and Prophet.
 
 ---
 
